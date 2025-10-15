@@ -3,8 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-# background: https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL21wZW1iYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==
-# some information about your slides (markdown enabled)
+background: https://github.com/xing-phys/Group-Seminar-QPME/tree/main/assets/title_figure.png # some information about your slides (markdown enabled)
 title: Pontus Mpemba Effect in Resource Theory
 info: |
   ## Slidev Starter Template
@@ -26,7 +25,7 @@ hideInToc: true
 #  ogImage: https://cover.sli.dev
 ---
 
-# Quantum Mpemba Effect
+# Pontus Mpemba Effect in Resource Theory
 
 Thursday's seminar
 
