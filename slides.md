@@ -993,5 +993,5 @@ hideInToc: true
 </div>
 
 <div class="footer">
-  <p>Presented at Group Seminar June 2025</p>
+  <p>Presented at Group Seminar October 2025</p>
 </div>
