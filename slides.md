@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://github.com/xing-phys/Group-Seminar-QPME/tree/main/assets/title_figure.png # some information about your slides (markdown enabled)
+background: https://raw.githubusercontent.com/xing-phys/Group-Seminar-QPME/refs/heads/main/assets/title_figure.png # some information about your slides (markdown enabled)
 title: Pontus Mpemba Effect in Resource Theory
 info: |
   ## Slidev Starter Template
