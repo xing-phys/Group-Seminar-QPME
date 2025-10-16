@@ -4,7 +4,7 @@ theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://raw.githubusercontent.com/xing-phys/Group-Seminar-QPME/refs/heads/main/assets/title_figure.png # some information about your slides (markdown enabled)
-title: Pontus Mpemba Effect in Resource Theory
+title: Pontus-Mpemba Effect in Resource Theory
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -25,7 +25,7 @@ hideInToc: true
 #  ogImage: https://cover.sli.dev
 ---
 
-# Pontus Mpemba Effect in Resource Theory
+# Pontus-Mpemba Effect in Resource Theory
 
 Thursday's seminar
 
@@ -95,7 +95,7 @@ dragPos:
   bib: 647,495,329,62
 ---
 
-# Pontus Mpemba Effect
+# Pontus-Mpemba Effect
 
 **Protocol**
 
@@ -159,7 +159,7 @@ $$
 
 <v-click>
 
-<v-drag pos="85,246,367,87">
+<v-drag pos="74,263,373,87">
   <span style="font-size: 20px;">
 
 $\left\{ F_{m} \right\}$: traceless. Kossakowski matrix $C$: positive semidefinite.
@@ -197,7 +197,7 @@ Monitoring function: $\mathcal{D}_{T}[\rho(t), \rho_{F}]$
 <v-drag pos="190,404,504,69">
   <span style="font-size: 20px;">
 
-Convergence: cutoff $\varepsilon \ll 1$, for $t > t_{c}$, $\mathcal{D}_{T}[\rho(t_{c}), \rho _\text{F}]$.
+Convergence: cutoff $\varepsilon \ll 1$, for $t > t_{c}$, $\mathcal{D}_{T}[\rho(t_{c}), \rho _\text{F}] \leq \varepsilon$.
 
   </span>
 </v-drag>
@@ -221,6 +221,10 @@ A. Nava and R. Egger, [Phys. Rev. Lett. **135**, 140404 (2025)](https://link.aps
 </span>
 </v-drag>
 
+<v-drag pos="699,31,252,188">
+<img src="/assets/sketch.svg"/>
+</v-drag>
+
 <v-click>
 
 <v-drag pos="63,79,214,65">
@@ -235,7 +239,7 @@ Trajectories $\Gamma _\text{SF}$ and $\Gamma _\text{SA}$.
 
 <v-click>
 
-<v-drag pos="61,134,497,405">
+<v-drag pos="44,137,497,405">
   <span style="font-size: 16px;">
 
 - Case 1:
@@ -270,7 +274,7 @@ $$
 
 <v-click>
 
-<v-drag pos="542,87,429,405">
+<v-drag pos="522,193,429,324">
   <span style="font-size: 16px;">
 
 General PME classification:
@@ -313,7 +317,7 @@ A. Nava and R. Egger, [Phys. Rev. Lett. **135**, 140404 (2025)](https://link.aps
 <v-click>
 
 <v-drag pos="97,79,105,68">
-  <span style="font-size: 16px;">
+  <span style="font-size: 18px;">
 
 $F_{n} \to \sigma_{n}$
 
@@ -323,8 +327,8 @@ $F_{n} \to \sigma_{n}$
 </v-click>
 <v-click>
 
-<v-drag pos="95,143,257,136">
-  <span style="font-size: 16px;">
+<v-drag pos="94,147,257,136">
+  <span style="font-size: 18px;">
 
 State
 $$
@@ -337,8 +341,8 @@ $$
 </v-click>
 <v-click>
 
-<v-drag pos="94,307,307,96">
-  <span style="font-size: 16px;">
+<v-drag pos="86,307,338,96">
+  <span style="font-size: 18px;">
 Hamiltonian
 
 $$
@@ -351,8 +355,8 @@ $$
 </v-click>
 <v-click>
 
-<v-drag pos="431,9,227,125">
-  <span style="font-size: 16px;">
+<v-drag pos="428,29,238,166">
+  <span style="font-size: 18px;">
 
 Kossakowski matrix
 $$
@@ -369,8 +373,8 @@ $$
 </v-click>
 <v-click>
 
-<v-drag pos="695,73,208,69">
-  <span style="font-size: 16px;">
+<v-drag pos="708,96,224,69">
+  <span style="font-size: 18px;">
 
 $$
 \dot{\boldsymbol{r}} = \boldsymbol{v}(\boldsymbol{r}) = 2 \Lambda \cdot \boldsymbol{r} + \boldsymbol{b}
@@ -382,8 +386,8 @@ $$
 </v-click>
 <v-click>
 
-<v-drag pos="113,433,729,105">
-  <span style="font-size: 16px;">
+<v-drag pos="91,405,798,105">
+  <span style="font-size: 18px;">
 
 $$
 \mathcal{L} = - i (H \otimes \mathbb{1} - \mathbb{1} \otimes H^{T}) + \sum_{m,n=1}^{3}C_{mn}\left[ (\sigma_{m} \otimes \sigma_{n}^{T}) - \frac{1}{2} (\sigma_{n}\sigma_{m}\otimes \mathbb{1}) - \frac{1}{2}(\mathbb{1} \otimes \sigma_{m}^{T}\sigma_{n}^{T}) \right]
@@ -396,8 +400,8 @@ $$
 
 <v-click>
 
-<v-drag pos="444,195,460,207">
-  <span style="font-size: 16px;">
+<v-drag pos="426,190,528,225">
+  <span style="font-size: 18px;">
 
 $$
 \Lambda = \begin{pmatrix}
