@@ -53,7 +53,7 @@ Ze-Yu, Xing
 
 
 <div class="abs-br m-6 text-xl">
-  <a href="https://github.com/xing-phys/Group-Seminar-QME" target="_blank" class="slidev-icon-btn">
+  <a href="https://github.com/xing-phys/Group-Seminar-QPME" target="_blank" class="slidev-icon-btn">
     <carbon:logo-github />
   </a>
 </div>
